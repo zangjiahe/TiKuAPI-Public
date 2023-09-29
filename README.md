@@ -8,7 +8,7 @@ Base URLs:
 
 * <a href="https://api.bcaqfy.xin:8443">请求地址:https://api.bcaqfy.xin:8443</a>
 
-##购买加Q:11504209
+## 购买加Q:11504209
 
 ## GET 远程查题
 
